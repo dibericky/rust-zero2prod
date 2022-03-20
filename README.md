@@ -43,6 +43,13 @@ Adding Dependencies:
 cargo install cargo-edit
 ```
 
+Debug macros
+
+```bash
+cargo install cargo-expand
+cargo +nightly expand
+```
+
 
 ## Users stories
 
