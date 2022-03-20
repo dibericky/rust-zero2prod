@@ -30,12 +30,19 @@ rustup component add rustfmt
 cargo fmt --  --check
 ```
 
-Security Vulnerabilities
+Security Vulnerabilities:
 
 ```bash
 cargo install cargo-audit
 cargo audit
 ```
+
+Adding Dependencies:
+
+```bash
+cargo install cargo-edit
+```
+
 
 ## Users stories
 
